@@ -1,5 +1,5 @@
 # faq
-A repository of common questions and answers to reduce repetition on the r/cybersecurity community.
+A repository of common questions and answers to reduce repetition on the r/cybersecurity community. These will mostly be focused on repetitive career or beginner questions, per the community's wants.
 
 ## Contribution Guide
 
