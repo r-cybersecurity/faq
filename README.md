@@ -13,7 +13,7 @@ A repository of common questions and answers to reduce repetition on the r/cyber
 ```
 ## What question is being asked?
 
-1-2 paragraphs of content.
+1-3 paragraphs of content. Enough to answer the question, but don't worry about covering EVERY possible case.
 ```
 6. Review your content! You can do this in GitHub by clicking "Preview" in the upper left of the editor, and will show the output from parsing your Markdown. Please be sure to check for spelling and grammar errors, make sure that all links are correct, and that there are no formatting goofs.
 7. Add a little signature after your answer if you like! You don't have to, but would be a nice way to get credit for the answer. This should be short and contain no personal information. For example:
