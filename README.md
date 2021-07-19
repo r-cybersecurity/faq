@@ -24,7 +24,7 @@ Answered by u/tweedge ([blog](https://chris.partridge.tech/), [Twitter](https://
 9. Once your content is ready, you should then create a new pull request. This will take a couple steps to do:
   * On your copy, click the "pull requests" tab. Then, click the green button on the right "New pull request"
   * GitHub will suggest the last branch to receive commits to the repository you forked it from. Therefore - merging `<your_account>/faq:main` to `r-cybersecurity/faq:main`. In human words: it is suggesting to add your file to the main repository. Perfect! Click "create pull request."
-  * In the title, write "Closes issue #<your issue number>" - you can find this on the [Issues](https://github.com/r-cybersecurity/faq/issues) page by clicking your issue and looking at the URL or title (the number is slightly faded next to the title). This automatically links your issue and your pull request.
+  * In the body, write "Closes issue #<your issue number>" - you can find this on the [Issues](https://github.com/r-cybersecurity/faq/issues) page by clicking your issue and looking at the URL or title (the number is slightly faded next to the title). This automatically links your issue and your pull request.
   * Finally, click "Create pull request" again.
 10. Moderators will review your contribution and may comment on your pull request to request edits. This will email you, but please check back every day in case you miss the email. If edits are requested, just update the file in your repository normally - the pull request will be updated with the new changes you made automatically.
 
