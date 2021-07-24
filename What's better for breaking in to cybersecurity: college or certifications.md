@@ -12,7 +12,7 @@ If all of this has made you unsure, that's probably a good thing. You should eva
 * What is possible with your current financial outlook and plans?
 * What is your tolerance for risk?
 
-Also, review the available information on the rest of this wiki - we have a lot of resources which can help you get informed about specific certifications, choosing a college, and more.
+Also, review the available information on the rest of this wiki. We have many resources which can help you get informed about specific certifications, choosing a college, and more.
 
 If you are still struggling to make the decision, I would recommend [this article](https://www.nytimes.com/2018/09/01/opinion/sunday/how-make-big-decision.html) on how to make big decisions, and perhaps ask mentors to share their personal experiences on the Mentorship Monday thread.
 
