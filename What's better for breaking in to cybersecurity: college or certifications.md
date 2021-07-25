@@ -9,6 +9,9 @@ Other areas within security, such as risk, software security, etc., will share m
 If all of this has made you unsure, that's probably a good thing. You should evaluate what the right option is for you:
 
 * What goals and environment will allow you to succeed?
+* Would you use clubs and social activities in a college setting to maximize your learning potential?
+* Are best able to complete work when it's on your own pace or individually?
+* Do you need structured coursework to succeed?
 * What is possible with your current financial outlook and plans?
 * What is your tolerance for risk?
 
