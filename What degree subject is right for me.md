@@ -1,4 +1,4 @@
-## What degree is right for me?
+## What degree subject is right for me?
 
 Cybersecurity is very wide, and any degree (even a cybersecurity degree!) cannot prepare you for every area of cybersecurity. Additionally, we cannot speak to specific degrees offered by specific colleges, so *please* evaluate this within the context of any degrees you are personally reviewing.
 
@@ -10,7 +10,7 @@ Pros: These are relatively specific degrees and can be good for people who are v
 
 Cons: These degrees will under-equip you for fields outside of cybersecurity. So, if cybersecurity isn't as good for you as you had hoped, you may have trouble pivoting to other roles, as you'll have only foundational knowledge of other parts of tech.
 
-Considerations: These degrees will often involve some computer science and math, but neither will be learned at a depth that is comparable to Computer Science. Additionally, the quality and docus of these degrees can vary wildly, so pay extra attention to the risk involved.
+Considerations: These degrees will often involve some computer science and math, but neither will be learned at a depth that is comparable to Computer Science. Additionally, the quality and focus of these degrees can vary wildly, so pay extra attention to the risk involved.
 
 #### Computer Science (CS) Degrees
 
