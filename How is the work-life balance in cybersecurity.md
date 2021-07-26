@@ -20,7 +20,7 @@ Most companies walk in the middle ground - you'll work a normal week, and then o
 
 #### How much time do people spend in other work or advancement in this field?
 
-For breaking in to cybersecurtity, this can be quite substantial. Getting a handful of certifications and little prior experience is usually not sufficient - you need a strong foundation to break into most cybersecurity roles, and this can either be through a *lot* of off-hours effort, or work up more gradually in your workplace.
+For breaking in to cybersecurity, this can be quite substantial. Getting a handful of certifications and little prior experience is usually not sufficient - you need a strong foundation to break into most cybersecurity roles, and this can either be through a *lot* of off-hours effort, or work up more gradually in your workplace.
 
 Once you're in the field, many people in this field spend time off-hours developing their skills. This isn't a *requirement* to succeed in cybersecurity, but it can help you advance yourself and stay current with industry trends, especially if your employer does not provide time for professional development. Spending 5 hours per week is plenty to keep up with news and read emerging research, with 10 or more you can run some projects on top of that.
 
