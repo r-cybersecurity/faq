@@ -4,7 +4,7 @@ A repository of common questions and answers to reduce repetition on the r/cyber
 ## Contribution Guide
 
 1. File an [issue](https://github.com/r-cybersecurity/faq/issues). The title should be a question you think should be answered in the r/cybersecurity FAQ.
-2. **(Optional)** Wait for a moderator to confirm that nobody else is writing or has already written an answer to that question. Precedence will be given to people who are confirmed owners of a given question, in case someone later answers a duplicate - they will be redirected to be an editor for your question, and receive question as an editor.
+2. **(Optional)** Wait for a moderator to confirm that nobody else is writing or has already written an answer to that question. Precedence will be given to people who are confirmed owners of a given question, in case someone later answers a duplicate - they will be redirected to be an editor for your question, and would receive credit as an editor but not an author.
 3. Answer the question by commenting on the issue.
 4. A moderator will review, and provide feedback. Edits may be requested.
 5. Once the answer is good - not prefect, but good enough - a moderator will confirm that you are licensing your response under CC BY-NC-SA 4.0.
