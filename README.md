@@ -8,8 +8,8 @@ A repository of common questions and answers to reduce repetition on the r/cyber
 3. Answer the question by commenting on the issue.
 4. A moderator will review, and provide feedback. Edits may be requested.
 5. Once the answer is good - not prefect, but good enough - a moderator will confirm that you are licensing your response under CC BY-NC-SA 4.0.
-6. Confirm or deny the request.
-7. A moderator will create the relevant changes in this git repository, and make a PR which closes your issue, signifying that the change was merged into this CC BY-NC-SA 4.0 repository, and may be put into an FAQ.
+6. Confirm or deny that you are licensing your work.
+7. If accepted, a moderator will create the relevant changes in this git repository, and make a PR which closes your issue, signifying that the change was merged into this CC BY-NC-SA 4.0 repository, and may be put into an FAQ. If denied, the request is closed, and your work will neither be added nor considered licensed.
 
 ## License
 
