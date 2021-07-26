@@ -1,6 +1,6 @@
 ## How can I evaluate a degree program?
 
-Before you do anything else, figure out if college is a good option for you. This is covered in depth under "What's better for breaking in to cybersecurity: college, certifications, or bootcamps?" - because there is no singular answer.
+Before you do anything else, figure out if college is a good option for you. This is covered in depth under "What's better for breaking in to cybersecurity: college or certifications?" - because there is no singular answer.
 
 If college is or might be the right option for you, you should search for colleges that meet the criteria you need - anything from cost, to region, to social scene, etc. - to start narrowing down the list. Once you have the list of colleges you would consider if the program is good, you should do the following - as a *minimum baseline* - for *every* program you are evaluating.
 
@@ -12,7 +12,7 @@ Next, ask for their placement statistics, and clarify what conditions someone is
 * Does that mean they're working anywhere?
 * Does that include people that went on to other education?
 
-You want to know how many people got into the field directly from their program, or get the best approximate of that. Don't fall for red herrings like "some students even went on to work at [some presitigious company]" - that means a minimum of two did over the history of the program, and you don't know what you have the same credentials as they did going in.
+You want to know how many people got into the field directly from their program, or get the best approximate of that. Don't fall for red herrings like "some students even went on to work at [some prestigious company]" - that means a minimum of two did over the history of the program, and you don't know what you have the same credentials as they did going in.
 
 It may also help to know what companies the college has relationships with or may receive advisement from - but absolutely don't take these as a guarantee that *all* graduates will be able to work at those companies.
 
